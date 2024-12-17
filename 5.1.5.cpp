@@ -20,7 +20,7 @@ public:
 };
 int main()
 {
-	Point a(20, 80);
+	Point a(60, 80);
 	a.display();
 	a.setpoint(20, 80);
 	a.display();
